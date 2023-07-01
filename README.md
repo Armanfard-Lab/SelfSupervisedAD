@@ -1,2 +1,2 @@
-# SelfSupervisedAD
-Self-Supervised Anomaly Detection Papers
+# Self Supervised AD Papers
+
