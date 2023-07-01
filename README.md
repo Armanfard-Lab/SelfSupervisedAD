@@ -22,6 +22,7 @@ You can find the preprint of our paper on [arXiv](https://arxiv.org/abs/2205.051
 | [Mean-Shifted Contrastive Loss for Anomaly Detection](https://ojs.aaai.org/index.php/AAAI/article/view/25309/25081) | AAAI 2023 | [PyTorch](https://github.com/talreiss/Mean-Shifted-Anomaly-Detection) |
 | [Multi-Scale Patch-Based Representation Learning for Image Anomaly Detection and Segmentation](https://openaccess.thecvf.com/content/WACV2022/html/Tsai_Multi-Scale_Patch-Based_Representation_Learning_for_Image_Anomaly_Detection_and_Segmentation_WACV_2022_paper.html) | WACV 2022 | [PyTorch](https://github.com/Howeng98/MSPBA) |
 | [CutPaste: Self-Supervised Learning for Anomaly Detection and Localization](https://ieeexplore.ieee.org/document/9578875) | CVPR 2021 | [PyTorch](https://github.com/LilitYolyan/CutPaste) |
+| [Masked Contrastive Learning for Anomaly Detection](https://www.ijcai.org/proceedings/2021/198)| IJCAI 2021 | [PyTorch](https://github.com/HyunsooCho77/MCL) |
 | [Puzzle-AE: Novelty Detection In Images Through Solving Puzzles](https://arxiv.org/pdf/2008.12959.pdf) | Preprint (2021) | [PyTorch](https://github.com/Niousha12/Puzzle_Anomaly_Detection) |
 | [Classification-Based Anomaly Detection for General Data](https://openreview.net/pdf?id=H1lK_lBtvS) | ICLR 2020 | [PyTorch](https://github.com/lironber/GOAD) |
 | [CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances](https://proceedings.neurips.cc/paper/2020/file/8965f76632d7672e7d3cf29c87ecaa0c-Paper.pdf) | NeurIPS 2020 | [PyTorch](https://github.com/alinlab/CSI) |
