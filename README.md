@@ -2,7 +2,7 @@
 
 <center><img src="https://github.com/Armanfard-Lab/SelfSupervisedAD/blob/main/ssl.png" alt="Overview" width="800" align="center"></center>
 
-Please cite our paper if you found this repo useful for your work: 
+Please cite our paper if you found this repo useful for your work:
 
 ```
 @inproceedings{hojjati2022selfsupervised,
