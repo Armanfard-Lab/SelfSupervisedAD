@@ -20,6 +20,7 @@ You can find the preprint of our paper on [arXiv](https://arxiv.org/abs/2205.051
 | Paper | Venue | Code |
 | -------- | -------- | -------- |
 | [CutPaste: Self-Supervised Learning for Anomaly Detection and Localization](https://ieeexplore.ieee.org/document/9578875) | CVPR 2021 | [PyTorch](https://github.com/LilitYolyan/CutPaste) |
+| [Puzzle-AE: Novelty Detection In Images Through Solving Puzzles](https://arxiv.org/pdf/2008.12959.pdf) | Preprint (2021) | [PyTorch](https://github.com/Niousha12/Puzzle_Anomaly_Detection) |
 | [Classification-Based Anomaly Detection for General Data](https://openreview.net/pdf?id=H1lK_lBtvS) | ICLR 2020 | [PyTorch](https://github.com/lironber/GOAD) |
 | [CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances](https://proceedings.neurips.cc/paper/2020/file/8965f76632d7672e7d3cf29c87ecaa0c-Paper.pdf) | NeurIPS 2020 | [PyTorch](https://github.com/alinlab/CSI) |
 |[Self-Supervised Representation Learning via Neighborhood-Relational Encoding](https://openaccess.thecvf.com/content_ICCV_2019/papers/Sabokrou_Self-Supervised_Representation_Learning_via_Neighborhood-Relational_Encoding_ICCV_2019_paper.pdf) | ICCV 2019 | [PyTorch](https://github.com/hendrycks/ss-ood) |
