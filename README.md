@@ -1,6 +1,6 @@
 # Self Supervised AD Papers
 
-| Header 1 | Header 2 | Header 3 |
+| Paper | Venue | Code |
 | -------- | -------- | -------- |
 | Content 1 | Content 2 | Content 3 |
 | Content 4 | Content 5 | Content 6 |
