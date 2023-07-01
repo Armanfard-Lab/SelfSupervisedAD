@@ -27,7 +27,7 @@ You can find the preprint of our paper on [arXiv](https://arxiv.org/abs/2205.051
 
 | Paper | Venue | Code |
 | -------- | -------- | -------- |
-| Content 1 | Content 2 | Content 3 |
+| [Self-Supervised Acoustic Anomaly Detection Via Contrastive Learning](https://ieeexplore.ieee.org/document/9746207) | ICASSP 2022 | [PyTorch](https://github.com/Armanfard-Lab/AADCL) |
 | Content 4 | Content 5 | Content 6 |
 | Content 7 | Content 8 | Content 9 |
 
