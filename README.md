@@ -1,5 +1,20 @@
 # Self Supervised Anomaly Detection Papers
 
+<center><img src="https://github.com/Armanfard-Lab/SelfSupervisedAD/blob/main/ssl.png" alt="Overview" width="800" align="center"></center>
+
+Please cite our paper if you found this repo useful for your work: 
+
+```
+@inproceedings{hojjati2022selfsupervised,
+  title={Self-Supervised Anomaly Detection: A Survey and Outlook},
+  author={Hadi Hojjati and Thi Kieu Khanh Ho and Narges Armanfard},
+  year={2022}
+}
+```
+
+You can find the preprint of our paper on [arXiv](https://arxiv.org/abs/2205.05173).
+
+
 ## Visual Anomaly Detection
 
 | Paper | Venue | Code |
