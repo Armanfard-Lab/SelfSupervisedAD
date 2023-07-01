@@ -19,8 +19,8 @@ You can find the preprint of our paper on [arXiv](https://arxiv.org/abs/2205.051
 
 | Paper | Venue | Code |
 | -------- | -------- | -------- |
-| [CutPaste: Self-Supervised Learning for Anomaly Detection and Localization](https://ieeexplore.ieee.org/document/9578875) | CVPR 2021 | [GitHub](https://github.com/LilitYolyan/CutPaste) |
-| Content 4 | Content 5 | Content 6 |
+| [CutPaste: Self-Supervised Learning for Anomaly Detection and Localization](https://ieeexplore.ieee.org/document/9578875) | CVPR 2021 | [PyTorch](https://github.com/LilitYolyan/CutPaste) |
+| [CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances](https://proceedings.neurips.cc/paper/2020/file/8965f76632d7672e7d3cf29c87ecaa0c-Paper.pdf) | NeurIPS 2020 | [PyTorch](https://github.com/alinlab/CSI) |
 | Content 7 | Content 8 | Content 9 |
 
 ## Audio Anomaly Detection
