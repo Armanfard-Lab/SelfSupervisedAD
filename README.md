@@ -19,6 +19,7 @@ You can find the preprint of our paper on [arXiv](https://arxiv.org/abs/2205.051
 
 | Paper | Venue | Code |
 | -------- | -------- | -------- |
+| [Mean-Shifted Contrastive Loss for Anomaly Detection](https://ojs.aaai.org/index.php/AAAI/article/view/25309/25081) | AAAI 2023 | [PyTorch](https://github.com/talreiss/Mean-Shifted-Anomaly-Detection) |
 | [Multi-Scale Patch-Based Representation Learning for Image Anomaly Detection and Segmentation](https://openaccess.thecvf.com/content/WACV2022/html/Tsai_Multi-Scale_Patch-Based_Representation_Learning_for_Image_Anomaly_Detection_and_Segmentation_WACV_2022_paper.html) | WACV 2022 | [PyTorch](https://github.com/Howeng98/MSPBA) |
 | [CutPaste: Self-Supervised Learning for Anomaly Detection and Localization](https://ieeexplore.ieee.org/document/9578875) | CVPR 2021 | [PyTorch](https://github.com/LilitYolyan/CutPaste) |
 | [Puzzle-AE: Novelty Detection In Images Through Solving Puzzles](https://arxiv.org/pdf/2008.12959.pdf) | Preprint (2021) | [PyTorch](https://github.com/Niousha12/Puzzle_Anomaly_Detection) |
